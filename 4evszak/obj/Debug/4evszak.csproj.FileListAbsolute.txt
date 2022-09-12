@@ -1,0 +1,8 @@
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\bin\Debug\4evszak.exe.config
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\bin\Debug\4evszak.exe
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\bin\Debug\4evszak.pdb
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\obj\Debug\4evszak.csproj.AssemblyReference.cache
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\obj\Debug\4evszak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\obj\Debug\4evszak.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\obj\Debug\4evszak.exe
+C:\Users\Ákos\Source\Repos\AkosSzabadi\2022-2023\4evszak\obj\Debug\4evszak.pdb
